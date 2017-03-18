@@ -1,0 +1,12 @@
+﻿Build started 2017/3/17 13:07:08.
+     1>Project "C:\Users\Yichuan\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\Sudoku.vcxproj" on node 2 (Build target(s)).
+     1>Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yichuan\Documents\Visual Studio 2012\Projects\Sudoku\Debug\Sudoku.exe" /INCREMENTAL /NOLOGO /LIBPATH:C:\opencv\build\x86\vc11\lib opencv_calib3d243d.lib opencv_contrib243d.lib opencv_core243d.lib opencv_features2d243d.lib opencv_flann243d.lib opencv_gpu243d.lib opencv_highgui243d.lib opencv_imgproc243d.lib opencv_legacy243d.lib opencv_ml243d.lib opencv_nonfree243d.lib opencv_objdetect243d.lib opencv_photo243d.lib opencv_stitching243d.lib opencv_ts243d.lib opencv_video243d.lib opencv_videostab243d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Yichuan\Documents\Visual Studio 2012\Projects\Sudoku\Debug\Sudoku.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yichuan\Documents\Visual Studio 2012\Projects\Sudoku\Debug\Sudoku.lib" /MACHINE:X86 Debug\main.obj
+         Debug\CSP.obj
+         Debug\VisualDisplay.obj
+     1>LINK : fatal error LNK1104: cannot open file 'opencv_calib3d243d.lib'
+     1>Done Building Project "C:\Users\Yichuan\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\Sudoku.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.09
